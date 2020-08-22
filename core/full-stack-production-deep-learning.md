@@ -1,5 +1,5 @@
 ---
-description: Full-stack production deep learning
+description: Creating models that work in the real world.
 ---
 
 # AI-Maker
