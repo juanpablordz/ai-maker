@@ -4,7 +4,7 @@ description: Creating models that work in the real world.
 
 # AI-Maker
 
-#### General courses
+#### Courses on building AI projects
 
 – [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/) by NYU.  
 _Full Stack Deep Learning helps you bridge the gap from training machine learning models to deploying AI systems in the real world._

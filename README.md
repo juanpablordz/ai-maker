@@ -1,6 +1,10 @@
-# Curates-AI-Resources
+---
+description: curated by github@juanpablordz
+---
 
-The purpose is to centralize a list of valuable resources \(courses, books, papers, podcasts\) that should be a useful roadmap for anyone who is interested in becoming an AI practitioner.
+# Curated AI resources
+
+The purpose of this repo is to centralize a list of valuable resources \(courses, books, papers, podcasts and more\) that should be a useful for anyone who is interested in becoming an AI practitioner.
 
 Go to [GitBook](https://jpablo.gitbook.io/ai-learning-resources/).
 

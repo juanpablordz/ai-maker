@@ -1,6 +1,6 @@
 # AI-Theory
 
-#### General Principles
+#### Courses on General Principles
 
 – [CS221: Artificial Intelligence: Principles and Techniques ](https://stanford-cs221.github.io/spring2020/)by Stanford.  
 [Video Lectures](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  
@@ -15,7 +15,7 @@ _Conversations about science, technology, history, philosophy and the nature of 
 
 \_\_
 
-#### _News Letters_
+#### News Letters
 
 – [Import AI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) by Jack Clark
 
@@ -24,6 +24,8 @@ _Conversations about science, technology, history, philosophy and the nature of 
 – [AI Weekly](http://aiweekly.co/) 
 
 – [NLP News ](http://newsletter.ruder.io/?utm_campaign=Issue&utm_content=profileimage&utm_medium=email&utm_source=NLP+News)by Sebastian Ruder
+
+– [Papers with Code:Weekly Digest ](https://paperswithcode.com/)by papers with code 
 
 
 

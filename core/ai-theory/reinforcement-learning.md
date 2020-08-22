@@ -1,5 +1,7 @@
 # Reinforcement Learning
 
+**Courses on Reinforcement Learning**
+
 – [Reinforcement Learning](https://www.davidsilver.uk/teaching/) by David Silver \(UCL\)
 
 – [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) by DeepMind

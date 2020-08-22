@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Curates-AI-Resources](README.md)
+* [Curated AI resources](README.md)
 
 ## Core
 
@@ -9,4 +9,8 @@
   * [Reinforcement Learning](core/ai-theory/reinforcement-learning.md)
   * [Computer Science](core/ai-theory/computer-science.md)
 * [AI-Maker](core/full-stack-production-deep-learning.md)
+
+## Other
+
+* [Pop-Culture](other/pop-culture.md)
 
