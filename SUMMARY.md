@@ -8,6 +8,7 @@
   * [Deep Learning](core/ai-theory/deep-learning.md)
   * [Reinforcement Learning](core/ai-theory/reinforcement-learning.md)
   * [Computer Science](core/ai-theory/computer-science.md)
+  * [Advanced Topics](core/ai-theory/advanced-topics.md)
 * [AI-Maker](core/full-stack-production-deep-learning.md)
 
 ## Other
