@@ -21,11 +21,14 @@ _An educational resource produced by OpenAI that makes it easier to learn about 
 * a well-documented [code repo](https://github.com/openai/spinningup) of short, standalone implementations of key algorithms,
 * and a few [exercises](https://github.com/openai/spinningup/blob/master/docs/spinningup/exercises.html) to serve as warm-ups.
 
+– [Reinforcement Learning Github repository](https://github.com/dennybritz/reinforcement-learning) by [dennybritz](https://github.com/dennybritz)  
+This repository provides code, exercises and solutions for popular Reinforcement Learning algorithms. 
+
 
 
 **Books**
 
-
+– [Reinforcement Learning: An Introduction \(2nd Edition\)](http://incompleteideas.net/book/RLbook2018.pdf) by Andrew Barto and Richard S. Sutton
 
 
 

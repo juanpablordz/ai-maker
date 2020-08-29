@@ -13,7 +13,9 @@
 
 ## Other
 
-* [AI-Ethics](other/ai-ethics.md)
+* [AI-Ethics](other/ai-ethics/README.md)
+  * [Algorithmic Fairness](other/ai-ethics/algorithmic-fairness.md)
+  * [Privacy](other/ai-ethics/privacy.md)
 * [Pop-Culture](other/pop-culture.md)
 * [Discord](other/discord.md)
 
