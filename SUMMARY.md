@@ -12,6 +12,7 @@
 
 ## Other
 
+* [AI-Ethics](other/ai-ethics.md)
 * [Pop-Culture](other/pop-culture.md)
 * [Discord](other/discord.md)
 
