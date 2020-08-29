@@ -9,12 +9,12 @@
   * [Reinforcement Learning](core/ai-theory/reinforcement-learning.md)
   * [Advanced Topics](core/ai-theory/advanced-topics.md)
 * [AI-Maker](core/full-stack-production-deep-learning.md)
+* [AI-Ethics](core/ai-ethics/README.md)
+  * [Algorithmic Fairness](core/ai-ethics/algorithmic-fairness.md)
+  * [Privacy](core/ai-ethics/privacy.md)
 
 ## Other
 
-* [AI-Ethics](other/ai-ethics/README.md)
-  * [Algorithmic Fairness](other/ai-ethics/algorithmic-fairness.md)
-  * [Privacy](other/ai-ethics/privacy.md)
 * [Pop-Culture](other/pop-culture.md)
 * [Discord](other/discord.md)
 
