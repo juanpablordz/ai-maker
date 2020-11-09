@@ -17,4 +17,5 @@
 
 * [Residency Programs](other/residency-programs.md)
 * [Pop-Culture](other/pop-culture.md)
+* [Doing-research](other/doing-research.md)
 
