@@ -15,6 +15,7 @@
 
 ## Other
 
+* [Residency Programs](other/residency-programs.md)
 * [Pop-Culture](other/pop-culture.md)
 * [Discord](other/discord.md)
 
