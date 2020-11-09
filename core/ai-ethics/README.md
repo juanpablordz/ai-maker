@@ -1,4 +1,4 @@
-# AI-Ethics
+# Ethics
 
 Intro coming soon....
 

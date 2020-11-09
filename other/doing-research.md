@@ -1,4 +1,4 @@
-# Good reads
+# Good Reads
 
 **Books**
 

@@ -1,4 +1,4 @@
-# AI-Theory
+# Theory
 
 #### Courses on General Principles
 

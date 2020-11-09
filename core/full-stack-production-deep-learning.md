@@ -2,7 +2,7 @@
 description: Creating models that work in the real world.
 ---
 
-# AI-Maker
+# Maker
 
 #### Courses on building AI projects
 
