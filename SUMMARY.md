@@ -13,9 +13,12 @@
   * [Algorithmic Fairness](core/ai-ethics/algorithmic-fairness.md)
   * [Privacy](core/ai-ethics/privacy.md)
 
+## Opportunities
+
+* [Residency Programs](opportunities/residency-programs.md)
+
 ## Other
 
-* [Residency Programs](other/residency-programs.md)
 * [Pop-Culture](other/pop-culture.md)
 * [Doing-research](other/doing-research.md)
 
