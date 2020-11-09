@@ -19,6 +19,7 @@
 
 ## Other
 
+* [Twitter](other/twitter.md)
 * [Pop-Culture](other/pop-culture.md)
 * [Good reads](other/doing-research.md)
 
