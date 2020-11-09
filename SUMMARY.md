@@ -20,5 +20,5 @@
 ## Other
 
 * [Pop-Culture](other/pop-culture.md)
-* [Doing-research](other/doing-research.md)
+* [Good reads](other/doing-research.md)
 
