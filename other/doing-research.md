@@ -8,5 +8,5 @@
 
 **Essays**
 
-– [opinionated guide to Machine Learning research](http://joschu.net/blog/opinionated-guide-ml-research.html)
+– [Opinionated guide to Machine Learning research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 
