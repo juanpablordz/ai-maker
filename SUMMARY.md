@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Curated AI resources](README.md)
+* [AI Makers](README.md)
 
 ## Artificial Intelligence <a id="core"></a>
 
