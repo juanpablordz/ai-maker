@@ -1,4 +1,4 @@
-# Ethics
+# Ethics💡
 
 Intro coming soon....
 

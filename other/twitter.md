@@ -1,4 +1,4 @@
-# Twitter
+# Twitter 🐦
 
 A list of people to follow:
 
