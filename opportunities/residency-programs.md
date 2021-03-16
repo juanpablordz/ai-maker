@@ -2,7 +2,7 @@
 description: List of AI Residency Programs
 ---
 
-# Residency Programs🛖
+# Residency Programs 🛖
 
 ### Residency Programs 2021
 

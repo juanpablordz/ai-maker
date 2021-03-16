@@ -8,14 +8,14 @@
   * [Deep Learning](core/ai-theory/deep-learning.md)
   * [Reinforcement Learning](core/ai-theory/reinforcement-learning.md)
   * [Advanced Topics](core/ai-theory/advanced-topics.md)
-* [Maker👩‍🏭](core/full-stack-production-deep-learning.md)
+* [Maker 👩‍🏭](core/full-stack-production-deep-learning.md)
 * [Ethics💡](core/ai-ethics/README.md)
   * [Algorithmic Fairness](core/ai-ethics/algorithmic-fairness.md)
   * [Privacy](core/ai-ethics/privacy.md)
 
 ## Opportunities
 
-* [Residency Programs🛖](opportunities/residency-programs.md)
+* [Residency Programs 🛖](opportunities/residency-programs.md)
 
 ## Other
 
