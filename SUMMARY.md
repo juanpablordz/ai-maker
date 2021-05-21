@@ -13,13 +13,14 @@
   * [Algorithmic Fairness](core/ai-ethics/algorithmic-fairness.md)
   * [Privacy](core/ai-ethics/privacy.md)
 
+## Research
+
+* [Papers 📖](research/research-papers.md)
+* [Communities 🛖](research/communities.md)
+
 ## Opportunities
 
 * [Residency Programs 🛖](opportunities/residency-programs.md)
-
-## Research
-
-* [Research papers 📖](research/research-papers.md)
 
 ## Other
 

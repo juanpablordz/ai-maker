@@ -1,4 +1,4 @@
-# Research papers 📖
+# Papers 📖
 
 Staying up to date with ML/AI papers is an overwhelming task. Here is a list of resources to ease your process of staying up to date.
 
