@@ -20,7 +20,8 @@
 
 ## Opportunities
 
-* [Residency Programs 🛖](opportunities/residency-programs.md)
+* [Residency Programs 🛖](opportunities/residency-programs/README.md)
+  * [2021](opportunities/residency-programs/2021.md)
 
 ## Other
 
