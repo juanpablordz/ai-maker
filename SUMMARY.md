@@ -17,6 +17,10 @@
 
 * [Residency Programs 🛖](opportunities/residency-programs.md)
 
+## Research
+
+* [Research papers](research/research-papers.md)
+
 ## Other
 
 * [Good reads 📖](other/doing-research.md)
