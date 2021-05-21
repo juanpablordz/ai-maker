@@ -19,6 +19,7 @@
 * [Papers 📖](research/research-papers/README.md)
   * [Paper implementations](research/research-papers/paper-implementations.md)
 * [Communities 🛖](research/communities.md)
+* [Conferences](research/conferences.md)
 
 ## Opportunities
 
