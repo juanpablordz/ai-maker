@@ -19,7 +19,7 @@
 
 ## Research
 
-* [Research papers](research/research-papers.md)
+* [Research papers 📖](research/research-papers.md)
 
 ## Other
 
