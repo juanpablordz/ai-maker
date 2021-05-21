@@ -10,12 +10,14 @@
   * [Advanced Topics](core/ai-theory/advanced-topics.md)
 * [Maker 👩‍🏭](core/full-stack-production-deep-learning.md)
 * [Ethics💡](core/ai-ethics/README.md)
+  * [Interpretability](core/ai-ethics/interpretability.md)
   * [Algorithmic Fairness](core/ai-ethics/algorithmic-fairness.md)
   * [Privacy](core/ai-ethics/privacy.md)
 
 ## Research
 
-* [Papers 📖](research/research-papers.md)
+* [Papers 📖](research/research-papers/README.md)
+  * [Paper implementations](research/research-papers/paper-implementations.md)
 * [Communities 🛖](research/communities.md)
 
 ## Opportunities
