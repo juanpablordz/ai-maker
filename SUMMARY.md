@@ -25,9 +25,11 @@
 * [Residency Programs 🛖](opportunities/residency-programs/README.md)
   * [2021](opportunities/residency-programs/2021.md)
 
-## Other
+## Newsletters <a id="other"></a>
 
 * [Good reads 📖](other/doing-research.md)
 * [Pop-Culture 👩‍🎤](other/pop-culture.md)
 * [Twitter 🐦](other/twitter.md)
+* [Podcast](other/podcast.md)
+* [Newsletters](other/newsletters.md)
 
