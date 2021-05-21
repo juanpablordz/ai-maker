@@ -21,17 +21,5 @@ _Conversations about science, technology, history, philosophy and the nature of 
 
 – [The Batch](https://www.deeplearning.ai/thebatch/?utm_campaign=The%20Batch&utm_medium=email&_hsmi=91446675&_hsenc=p2ANqtz-_Aqqw4f_gk9HB0qeV11gcBbCDGiBj4IYIP-vDHCBusBB9m4uy28_odVg_1HN4ofeGc_S3mggrjmxidCWSCkzYa2kJxiw&utm_content=91446675&utm_source=hs_email) by deeplearning.ai
 
-– [AI Weekly](http://aiweekly.co/) 
-
 – [NLP News ](http://newsletter.ruder.io/?utm_campaign=Issue&utm_content=profileimage&utm_medium=email&utm_source=NLP+News)by Sebastian Ruder
-
-– [Papers with Code:Weekly Digest ](https://paperswithcode.com/)by papers with code 
-
-
-
-
-
-
-
-
 
